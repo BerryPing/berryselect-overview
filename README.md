@@ -56,7 +56,6 @@
 
 ## 🌟 Key Features
 
----
 
 ### 🔑 1. Login & Sign Up
 - Kakao OAuth 로그인 지원
@@ -64,8 +63,8 @@
 - JWT 기반 세션 관리
 
 <p align="center">
-  <img src="./imgs/login.png" alt="Login Screen" width="220"/>
-  <img src="./imgs/join.png" alt="Join Screen" width="220"/>
+  <img src="./imgs/login.png" alt="Login Screen" width="180"/>
+  <img src="./imgs/join.png" alt="Join Screen" width="180"/>
 </p>
 
 ---
@@ -76,10 +75,10 @@
 - 실시간 상태 표시
 
 <p align="center">
-  <img src="./imgs/home.png" alt="Home Screen" width="220"/>
-  <img src="./imgs/notification.png" alt="Notification Tab" width="220"/>
-  <img src="./imgs/home_search.png" alt="Search Tab" width="220"/>
-  <img src="./imgs/kakao.png" alt="kakaotalk notification" width="220"/>
+  <img src="./imgs/home.png" alt="Home Screen" width="180"/>
+  <img src="./imgs/notification.png" alt="Notification Tab" width="180"/>
+  <img src="./imgs/home_search.png" alt="Search Tab" width="180"/>
+  <img src="./imgs/kakao.png" alt="kakaotalk notification" width="180"/>
 </p>
 
 ---
@@ -88,10 +87,10 @@
 - 사용자 카드·멤버십 조합 최적 혜택 추천
 
 <p align="center">
-  <img src="./imgs/berrypick1.png" alt="BerryPick Screen 1" width="220"/>
-  <img src="./imgs/berrypick2.png" alt="BerryPick Screen 2" width="220"/>
-  <img src="./imgs/berrypick3.png" alt="BerryPick Screen 3" width="220"/>
-  <img src="./imgs/berrypick4.png" alt="BerryPick Screen 4" width="220"/>
+  <img src="./imgs/berrypick1.png" alt="BerryPick Screen 1" width="180"/>
+  <img src="./imgs/berrypick2.png" alt="BerryPick Screen 2" width="180"/>
+  <img src="./imgs/berrypick3.png" alt="BerryPick Screen 3" width="180"/>
+  <img src="./imgs/berrypick4.png" alt="BerryPick Screen 4" width="180"/>
 </p>
 
 ---
@@ -101,10 +100,10 @@
 - 혜택 레벨·포인트 현황 표시
 
 <p align="center">
-  <img src="./imgs/wallet1.png" alt="Wallet Screen 1" width="220"/>
-  <img src="./imgs/wallet2.png" alt="Wallet Screen 2" width="220"/>
-  <img src="./imgs/wallet3.png" alt="Wallet Screen 3" width="220"/>
-  <img src="./imgs/wallet4.png" alt="Wallet Screen 4" width="220"/>
+  <img src="./imgs/wallet1.png" alt="Wallet Screen 1" width="180"/>
+  <img src="./imgs/wallet2.png" alt="Wallet Screen 2" width="180"/>
+  <img src="./imgs/wallet3.png" alt="Wallet Screen 3" width="180"/>
+  <img src="./imgs/wallet4.png" alt="Wallet Screen 4" width="180"/>
 </p>
 
 ---
@@ -123,10 +122,10 @@
     - **최근 거래 내역**: 최신 결제 내역을 간단히 확인 가능
 
 <p align="center">
-  <img src="./imgs/myberry1.png" alt="MyBerry Screen 1" width="220"/>
-  <img src="./imgs/myberry2.png" alt="MyBerry Screen 2" width="220"/>
-  <img src="./imgs/myberry3.png" alt="MyBerry Screen 3" width="220"/>
-  <img src="./imgs/myberry4.png" alt="MyBerry Screen 4" width="220"/>
+  <img src="./imgs/myberry1.png" alt="MyBerry Screen 1" width="180"/>
+  <img src="./imgs/myberry2.png" alt="MyBerry Screen 2" width="180"/>
+  <img src="./imgs/myberry3.png" alt="MyBerry Screen 3" width="180"/>
+  <img src="./imgs/myberry4.png" alt="MyBerry Screen 4" width="180"/>
 </p>
 
 
